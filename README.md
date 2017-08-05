@@ -1,2 +1,2 @@
 # hello-world
-sample project 
+Sample Project for DotSlash
